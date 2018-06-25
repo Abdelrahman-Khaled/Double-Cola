@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529367950 source:f:\problem solving\double cola\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
